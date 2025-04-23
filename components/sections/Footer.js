@@ -19,7 +19,7 @@ export async function Footer() {
         <Link
           aria-label={"Link to Github of the developer"}
           className="inline text-white"
-          href="https://github.com/mojahidhasan"
+          href="https://wibblex.com/pricing/digital-marketing-pricing"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -31,7 +31,7 @@ export async function Footer() {
         <Link
           aria-label={"Link to Figma Community"}
           className="inline text-white"
-          href="https://www.figma.com/community/file/1182308758714734501/golobe-travel-agency-website"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
