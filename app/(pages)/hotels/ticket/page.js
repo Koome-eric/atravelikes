@@ -230,10 +230,10 @@ export default function HotelTicketDownloadPagee() {
               against us.
             </li>
             <li className="mb-[16px]">
-              Golobe may require the card holder to provide additional payment
+              Atravelikes may require the card holder to provide additional payment
               verification upon request by either submitting an online form or
-              visiting the nearest Golobe office, or at the airport at the time
-              of check-in. Golobe reserves the right to deny boarding or to
+              visiting the nearest Atravelikes office, or at the airport at the time
+              of check-in. Atravelikes reserves the right to deny boarding or to
               collect a guarantee payment (in cash or from another credit card)
               if the card originally used for the purchase cannot be presented
               by the cardholder at check-in or when collecting the tickets, or
@@ -250,9 +250,8 @@ export default function HotelTicketDownloadPagee() {
             <p>
               If you have any questions about our Website or our Terms of Use,
             </p>
-            <p>Golob Group Q.C.S.C</p>
-            <p>Golob Tower</p>
-            <p>Doha, State of Qatar</p>
+            <p>Atravelikes</p>
+            <p>Nairobi Kenya</p>
             <p>
               Further contact details can be found at{" "}
               <Button
@@ -260,7 +259,7 @@ export default function HotelTicketDownloadPagee() {
                 variant={"link"}
                 className={"p-0 h-auto text-tertiary"}
               >
-                <Link href={"/support"}>golobe.com/support</Link>
+                <Link href={"/support"}>atravelikes.com/support</Link>
               </Button>
             </p>
           </address>

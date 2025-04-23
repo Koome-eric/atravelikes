@@ -49,7 +49,7 @@ export function FareCard({
       <p className="font-medium">
         Your booking is protected by{" "}
         <Link href={"/"} className="font-bold">
-          Golob
+        Atravelikes
         </Link>
       </p>
       <Separator />

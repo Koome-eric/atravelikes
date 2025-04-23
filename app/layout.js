@@ -29,13 +29,13 @@ const tradegothic = localFont({
 export const metadata = {
   title: "Atravelikes",
   description:
-    "GAtravelikes is a travel company dedicated to making your travel seamless, efficient, and enjoyable.",
+    "Atravelikes is a travel company dedicated to making your travel seamless, efficient, and enjoyable.",
   keywords: [
     "travel",
     "agency",
-    "golob",
+    "atravelikes",
     "travel agency",
-    "golob travel agency",
+    "atravelikes travel agency",
     "nextjs",
     "react",
     "javascript",
@@ -48,10 +48,10 @@ export const metadata = {
   ],
   metadataBase: new URL("https://atravelikes.vercel.app"),
   openGraph: {
-    title: "Golob Travel Agency",
+    title: "Atravelikes Travel Agency",
     description:
-      "Golob Travel Agency is a travel agency that provides top-notch travel services (fake, personal project).",
-    siteName: "Golob Travel Agency",
+      "Atravelikes Travel Agency is a travel agency that provides top-notch travel services.",
+    siteName: "Atravelikes Travel Agency",
     images: [
       {
         url: openGraph.src,

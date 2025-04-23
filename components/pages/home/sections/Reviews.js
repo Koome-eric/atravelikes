@@ -10,7 +10,7 @@ export function Reviews() {
       <div className="mb-[20px] flex items-center justify-between max-md:flex-col max-md:gap-[16px] md:mb-[40px]">
         <SectionTitle
           title="Reviews"
-          subTitle="What people says about Golobe facilities"
+          subTitle="What people says about Atravelikes facilities"
         />
         <Button asChild variant={"outline"}>
           <Link scroll={false} href={"#"}>

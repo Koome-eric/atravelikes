@@ -46,7 +46,7 @@
     >
       <tr>
         <td align="center" style="padding: 20px 20px 20px 20px">
-          <a href="https://golob-travel-agency.vercel.app">
+          <a href="https://atravelikes.vercel.app">
             <img
               src="https://s68ty.mjt.lu/img2/s68ty/d7f8c281-1cfd-4cb0-96a8-f40bfdcc1ac7/content"
               width="100"
@@ -65,10 +65,10 @@
           <h2>Welcome</h2>
           <p>
             Hi <[{userName}]>, <br />
-            Welcome to Golobe Travel agnecy! Thank you for choosing our service.
+            Welcome to Atravelikes Travel agnecy! Thank you for choosing our service.
           </p>
           <p>
-            At Golobe, you can search and book flights and hotels effortlessly.
+            At Atravelikes, you can search and book flights and hotels effortlessly.
             Whether you’re planning a vacation or a business trip, we’ve got you
             covered.
           </p>
@@ -99,7 +99,7 @@
             </tr>
             <tr>
               <td align="center">
-                <a style="display: inline-block; padding:10px 10px 10px 10px;background-color: #8dd3ba;border-radius: 5px;text-decoration: none;font-weight: bold;color: black;" href="https://golob-travel-agency.vercel.app/flights">
+                <a style="display: inline-block; padding:10px 10px 10px 10px;background-color: #8dd3ba;border-radius: 5px;text-decoration: none;font-weight: bold;color: black;" href="https://atravelikes.app/flights">
                   Find Flights
                 </a>
               </td>
@@ -136,7 +136,7 @@
         <td align="center">
           <p>
 
-            <a href="https://golob-travel-agency.vercel.app">
+            <a href="https://atravelikes.vercel.app">
               <img
               src="https://s68ty.mjt.lu/img2/s68ty/d7f8c281-1cfd-4cb0-96a8-f40bfdcc1ac7/content"
               width="100"
@@ -151,16 +151,16 @@
             <a href="https://instagram.com"><img src="https://s68ty.mjt.lu/img2/s68ty/1dde75ec-9e90-4899-97c4-cb63d50b14c4/content" width="24" height="24" alt="insta_logo" /></a>
           </p>
           <p>
-            <a href="https://golob-travel-agency.vercel.app">Home</a>&nbsp;
-            <a href="https://golob-travel-agency.vercel.app/flights">Flights</a>&nbsp;
-            <a href="https://golob-travel-agency.vercel.app/hotels">Hotels</a>&nbsp;
-            <a href="https://golob-travel-agency.vercel.app/support">Support</a>
+            <a href="https://atravelikes.vercel.app">Home</a>&nbsp;
+            <a href="https://atravelikes.vercel.app/flights">Flights</a>&nbsp;
+            <a href="https://atravelikes.vercel.app/hotels">Hotels</a>&nbsp;
+            <a href="https://atravelikes.vercel.app/support">Support</a>
           </p>
         </td>
       </tr>
       <tr>
         <td align="center">
-          <p>© 2024 Golobe Travel Agency. All rights reserved.</p>
+          <p>© 2024 Atravelikes Travel Agency. All rights reserved.</p>
         </td>
       </tr>
     </table>
