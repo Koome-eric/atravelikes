@@ -1,6 +1,6 @@
 # Golobe Travel Agency Website
 
-![Home Screen Golobe Travel Agency](/preview.jpg)
+![Home Screen Atravelikes Travel Agency](/preview.jpg)
 
 ## Overview
 

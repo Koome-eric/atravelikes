@@ -10,7 +10,7 @@ import mongoose from "mongoose";
 
 import dynamic from "next/dynamic";
 
-import openGraph from "./opengraph-image.jpg";
+import openGraph from "./opengraph-image.png";
 import SetCookies from "./_setCookies";
 
 // Import Poppins font with desired weight and subsets
