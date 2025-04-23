@@ -1,4 +1,4 @@
-import { Montserrat } from "next/font/google";
+import { Poppins } from "next/font/google"; // Import Poppins font
 import localFont from "next/font/local";
 import "./globals.css";
 
@@ -12,11 +12,14 @@ import dynamic from "next/dynamic";
 
 import openGraph from "./opengraph-image.jpg";
 import SetCookies from "./_setCookies";
-const monse = Montserrat({
+
+// Import Poppins font with desired weight and subsets
+const poppins = Poppins({
   subsets: ["latin"],
-  variable: "--font-monserrat",
+  variable: "--font-poppins", // Set the variable for Poppins font
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
 });
+
 const tradegothic = localFont({
   src: "../public/fonts/gothic_extended.otf",
   variable: "--font-tradegothic",
@@ -24,9 +27,9 @@ const tradegothic = localFont({
 });
 
 export const metadata = {
-  title: "Golob Travel Agency",
+  title: "Atravelikes",
   description:
-    "Golob Travel Agency is a travel agency that provides top-notch travel services.",
+    "GAtravelikes is a travel company dedicated to making your travel seamless, efficient, and enjoyable.",
   keywords: [
     "travel",
     "agency",
@@ -77,8 +80,8 @@ export default async function RootLayout({ children }) {
     }
   );
   return (
-    <html lang="en" className={`${tradegothic.variable} ${monse.variable}`}>
-      <body className={monse.className}>
+    <html lang="en" className={`${tradegothic.variable} ${poppins.variable}`}> {/* Apply Poppins font here */}
+      <body className={poppins.className}> {/* Set body font to Poppins */}
         <StoreProvider>
           <SessionProvider>
             <div className="max-w-[1440px] mx-auto">
