@@ -33,7 +33,7 @@ export default async function HomePage() {
           />
           <div className="w-full text-center text-white">
             <h2 className="leading-[5rem] text-2xl font-bold md:text-[2rem] lg:text-[2.8125rem]">
-              Let's Discover The
+              Let&#39;s Discover The
             </h2>
             <h1 className="text-[3rem] md:tracking-[.15em] font-bold uppercase md:text-[4rem] lg:text-[5rem]">
               World Together
