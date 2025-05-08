@@ -4,51 +4,33 @@ export function QuickLinks() {
   const links = {
     "Our Destination": [
       {
-        name: "Canada",
-        href: "/",
+        name: "Kenya",
+        href: "/kenya",
       },
       {
-        name: "Alaska",
-        href: "#",
+        name: "Nigeria",
+        href: "/nigeria",
       },
       {
-        name: "France",
-        href: "#",
-      },
-      {
-        name: "Iceland",
-        href: "#",
+        name: "Rwanda",
+        href: "/rwanda",
       },
     ],
     "Our Activity": [
       {
-        name: "Northern Lights",
+        name: "Safari Adventures",
         href: "#",
       },
       {
-        name: "Cruising & Sailing",
+        name: "Mountain Climbing",
         href: "#",
       },
       {
-        name: "Multi-activities",
+        name: "Cultural Tours",
         href: "#",
       },
       {
-        name: "Kayaing",
-        href: "#",
-      },
-    ],
-    "Travel Blogs": [
-      {
-        name: "Bali Travel Guide",
-        href: "#",
-      },
-      {
-        name: "Srilanka Travel Guide",
-        href: "#",
-      },
-      {
-        name: "Peru Travel Guide",
+        name: "Beach Holidays",
         href: "#",
       },
     ],

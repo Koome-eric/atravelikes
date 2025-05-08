@@ -7,14 +7,15 @@ export function Map() {
   function handleClick(e) {
     e.target.style.display = "none";
   }
+
   return (
     <div>
       <div className="relative">
         <iframe
           width="425"
           height="350"
-          src="https://www.openstreetmap.org/export/embed.html?bbox=28.972363471984863%2C41.00569842459431%2C28.976161479949955%2C41.00706671132942&amp;layer=mapnik"
-          className="w-full rounded-16px border-none"
+          src="https://www.openstreetmap.org/export/embed.html?bbox=36.8172%2C-1.2864%2C36.8210%2C-1.2840&amp;layer=mapnik"
+          className="w-full rounded-[16px] border-none"
         ></iframe>
         <div
           onClick={handleClick}
@@ -26,7 +27,7 @@ export function Map() {
       <div className="flex items-center">
         <Image src={location} alt="" className="mr-1" />
         <span className="text-[0.875rem] opacity-75">
-          Gümüssuyu Mah. Inönü Cad. No:8, Istanbul 34437
+          Kenyatta Avenue, Nairobi, Kenya
         </span>
       </div>
     </div>
